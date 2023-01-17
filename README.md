@@ -1,4 +1,6 @@
+<h1>Gagan Raj Singh</h1>
 ### Hi there 👋
+### I am a Computer Science student at University of Alberta. I'm currently looking for SWE Co-op roles.
 
 <!--
 **GaganRajSingh/GaganRajSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
