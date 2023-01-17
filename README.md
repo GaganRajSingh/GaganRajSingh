@@ -1,7 +1,8 @@
 <h1>Gagan Raj Singh</h1>
 Hi there 👋
 I am a Computer Science student at University of Alberta and currently looking for SWE Co-op roles for this summer.
-Please find me resume <a href = "https://drive.google.com/file/d/1DtaMteG1PX3Z_fae0QHjYKI4oW3SDQ6y/view?usp=sharing">here</a>
+Please find me resume <a href = "https://drive.google.com/file/d/1DtaMteG1PX3Z_fae0QHjYKI4oW3SDQ6y/view?usp=sharing">here</a>.
+<br>
 <br>
 📫 How to reach me: grsingh@ualberta.ca
 
