@@ -3,10 +3,11 @@ Hi there 👋 <br>
 I am a Computer Science student at University of Alberta and currently looking for SWE Co-op roles summer 2023. I am dedicated to staying current with the latest industry trends and eager to learn and grow as a professional. My goal is to work with a team that values creativity and collaboration.
 <br>
 <br>
-
-## 📄 My Resume:
+ 📄 My Resume:
+ <br>
   > <a href = "https://drive.google.com/file/d/1DtaMteG1PX3Z_fae0QHjYKI4oW3SDQ6y/view?usp=sharing">Link</a>
-## 📫 How to reach me:
+ 📫 How to reach me:
+ <br>
   > grsingh@ualberta.ca
   > <a href = "https://linkedin.com/in/gagan-raj-singh">LinkedIn</a>
 
