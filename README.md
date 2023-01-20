@@ -5,9 +5,9 @@ I am a Computer Science student at University of Alberta and currently looking f
 <br>
 📫 How to reach me: <br>
    - grsingh@ualberta.ca <br>
-   - <a href = "https://linkedin.com/in/gagan-raj-singh">LinkedIn</a> <br>
+   - <a target="_blank" href = "https://linkedin.com/in/gagan-raj-singh">LinkedIn</a> <br>
  
-📄 My Resume:  <a href = "https://drive.google.com/file/d/1DtaMteG1PX3Z_fae0QHjYKI4oW3SDQ6y/view?usp=sharing">Link</a> <br>
+📄 My Resume:  <a target="_blank" href = "https://drive.google.com/file/d/1DtaMteG1PX3Z_fae0QHjYKI4oW3SDQ6y/view?usp=sharing">Link</a> <br>
 
 
 
