@@ -1,10 +1,13 @@
 <h1>Gagan Raj Singh</h1>
 Hi there 👋 <br>
-I am a Computer Science student at University of Alberta and currently looking for SWE Co-op roles summer 2023.
-Please find me resume <a href = "https://drive.google.com/file/d/1DtaMteG1PX3Z_fae0QHjYKI4oW3SDQ6y/view?usp=sharing">here</a>.
+I am a Computer Science student at University of Alberta and currently looking for SWE Co-op roles summer 2023. I am dedicated to staying current with the latest industry trends and eager to learn and grow as a professional. My goal is to work with a team that values creativity and collaboration.
 <br>
 <br>
-📫 How to reach me: grsingh@ualberta.ca
+📄 My Resume:
+  > <a href = "https://drive.google.com/file/d/1DtaMteG1PX3Z_fae0QHjYKI4oW3SDQ6y/view?usp=sharing">Link</a>
+📫 How to reach me:
+  > grsingh@ualberta.ca
+  > [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/gagan-raj-singh/)  
 
 <!--
 **GaganRajSingh/GaganRajSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
