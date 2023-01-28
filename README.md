@@ -1,5 +1,5 @@
 # <h1>Gagan Raj Singh</h1>
-Hi there 👋 <br>
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> <br>
 I am a Computer Science student at University of Alberta and currently looking for SWE Co-op roles summer 2023.
 <br>
 <br>
