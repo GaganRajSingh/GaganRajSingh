@@ -9,6 +9,7 @@ I am a Computer Science student at University of Alberta and currently looking f
  
 📄 My Resume:  <a target="_blank" href = "https://drive.google.com/file/d/1DtaMteG1PX3Z_fae0QHjYKI4oW3SDQ6y/view?usp=sharing">Link</a> <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GaganRajSingh" alt="GaganRajSingh" /> </p>
 
 
 <!--
