@@ -1,6 +1,6 @@
 # <h1>Gagan Raj Singh</h1>
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> <br>
-I am a Computer Science student at University of Alberta and currently looking for SWE Intern roles for 2024.
+I am a Computer Science student at University of Alberta and currently looking for SWE Intern/Full-Time roles for 2024.
 <br>
 <br>
 📫 How to reach me: <br>
