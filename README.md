@@ -1,6 +1,6 @@
 # <h1>Gagan Raj Singh</h1>
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> <br>
-I am a Computer Science student at University of Alberta and currently looking for SWE Co-op roles fall 2023.
+I am a Computer Science student at University of Alberta and currently looking for SWE Intern roles for 2024.
 <br>
 <br>
 📫 How to reach me: <br>
@@ -9,7 +9,12 @@ I am a Computer Science student at University of Alberta and currently looking f
  
 📄 My Resume:  <a target="_blank" href = "https://drive.google.com/file/d/1DtaMteG1PX3Z_fae0QHjYKI4oW3SDQ6y/view?usp=sharing">Link</a> <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GaganRajSingh" alt="GaganRajSingh" /> </p>
+<img src="https://streak-stats.demolab.com?user=GaganRajSingh&date_format=j%20M%5B%20Y%5D" alt="Gagan's Streak Stats"/> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganRajSingh&layout=compact&theme=buefy&hide_border=true" alt="Gagan's Top Languages"/><br>
+
+
+
+<img src="https://komarev.com/ghpvc/?username=GaganRajSingh" alt="GaganRajSingh" />
 
 
 <!--
